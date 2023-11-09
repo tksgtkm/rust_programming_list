@@ -8,9 +8,9 @@ fn do_it(f: fn(u32, u32) -> u32, a : u32, b : u32) {
 }
 
 fn add(a : u32, b : u32) -> u32 {
-    a + b;
+    a + b
 }
 
 fn mul(a : u32, b : u32) -> u32 {
-    a * b;
+    a * b
 }
